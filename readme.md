@@ -1,5 +1,6 @@
-## Techcrunch Project
-> Project 1 of 3
+## Variant_2 Project
+> Project 3 of 3
+
 ### Project structure
 
 ```
@@ -9,7 +10,8 @@ src/
 |- App.jsx _________________________________ # Application init
 |  |- Components/
 |    |- news/
-|       |- index.jsx _______________________ # News component
+|       |- index.jsx _______________________ # Posts component
+|    |- Forms.jsx __________________________ # Forms component
 
 webpack
 |- paths.js ________________________________ # webpack paths needed
